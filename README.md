@@ -17,9 +17,9 @@ To analyze how **tariff structures** and **economic indicators** across countrie
 
 | Dataset | Source | Description |
 | :-- | :-- | :-- |
-| **Trade Data** | [UN Comtrade API](https://comtradeapi.un.org/) | Bilateral import/export data by product and partner country |
-| **Tariff Data** | [World Integrated Trade Solution (WITS)](https://wits.worldbank.org/) | Weighted tariff rates and duty structures |
-| **Economic Data** | [World Bank API](https://data.worldbank.org/) | GDP per capita, inflation, unemployment, and exchange rate data |
+| **Trade Data** | [UN Comtrade API] | Bilateral import/export data by product and partner country |
+| **Tariff Data** | [World Integrated Trade Solution (WITS)] | Weighted tariff rates and duty structures |
+| **Economic Data** | [World Bank API] | GDP per capita, inflation, unemployment, and exchange rate data |
 
 ---
 
@@ -31,7 +31,7 @@ To analyze how **tariff structures** and **economic indicators** across countrie
 | **MySQL** | Database for KPI calculations and joins |
 | **Power BI** | Visualization and dashboard creation |
 | **Excel/CSV** | Raw and intermediate data validation |
-| **Git & GitHub** | Version control and documentation |
+| **GitHub** | Version control and documentation |
 
 ---
 
@@ -85,11 +85,6 @@ Power BI Dashboard (Insights & Recommendations)
 2. **Tariff Insights:** Average weighted tariffs by product and country, and tariff–trade correlation heatmap.  
 3. **Economic Overview:** GDP, inflation, and exchange rate dynamics affecting trade.  
 4. **Risk & Strategy Dashboard:** Composite risk score bars, heatmap of risk exposure, and actionable recommendation cards.
-
-### **Design Theme**
-* **Primary Color:** Deep Green (#1B4332) – symbolizes stability and growth  
-* **Background:** Off-white / muted grey  
-* **Text & Borders:** Charcoal grey for clarity and readability  
 
 ---
 
